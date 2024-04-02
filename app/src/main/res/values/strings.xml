@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GithubUserV.1.0</string>
+    <string name="username_user">Username</string>
+    <string name="name_user">name</string>
+    <string name="searchbar_hint">Cari Username Github</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="tb_favorite">Favorite</string>
+    <string name="follow_count">%d Followers</string>
+    <string name="tb_setting">Settings</string>
+    <string name="light_mode_on">Light Mode ON</string>
+    <string name="light_mode_off">Light Mode OFF</string>
+    <string name="fab">Favorite Button</string>
+</resources>

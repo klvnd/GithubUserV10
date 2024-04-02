@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.GithubUserV10" parent="Theme.Material3.Dark">
+    </style>
+
+    <style name="Theme.GithubUserV10" parent="Base.Theme.GithubUserV10">
+    </style>
+
+    <style name="cirlcularBorderImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
